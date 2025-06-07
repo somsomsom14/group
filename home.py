@@ -41,7 +41,7 @@ col1, col2, col3 = st.columns([1, 2, 1])
 
 
 with col2:
-    st.image("./ramb.png", width=800)
+    st.image("image/ramb.png", width=800)
 
 st.markdown("""
 <div style="
