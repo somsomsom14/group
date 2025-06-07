@@ -62,7 +62,7 @@ st.markdown("""
 
 st.markdown("""
 <div style="text-align:center; margin-top:25px;">  
-    <a href="/gangnam" target="_self" style="text-decoration: none;">
+    <a href="/chat" target="_self" style="text-decoration: none;">
         <button style="
             background-color:#8abbda;
             color: white;
